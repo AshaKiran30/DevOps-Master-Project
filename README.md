@@ -32,7 +32,7 @@ To set up and run this project, follow these steps:
 
 Clone the Repository
 
-git clone https://github.com/yourusername/DevOps-Masters-Project.git
+git clone https://github.com/AshaKiran30/DevOps-Masters-Project.git
 cd DevOps-Masters-Project
 Configure AWS CLI
 
